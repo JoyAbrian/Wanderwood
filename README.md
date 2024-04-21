@@ -28,6 +28,15 @@ Welcome to Wanderwood, a peaceful open-world exploration game set amidst the bea
 
 ## Credits
 - Developed by [Ruukaze](https://github.com/JoyAbrian)
+- Thanks to [spaderdabomb](https://www.youtube.com/playlist?list=PLYvjPIZvaz-pBS9j8u9Ol0ixAid0-Bq_t) for tutorial
+- Assets :
+  
+  [Modular First Person Controller](https://assetstore.unity.com/packages/3d/characters/modular-first-person-controller-189884),
+  [Lowpoly Environment - Nature Free](https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052),
+  [Fantasy Skybox FREE](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353),
+  [AQUAS Lite - Built-In Render Pipeline](https://assetstore.unity.com/packages/vfx/shaders/aquas-lite-built-in-render-pipeline-53519),
+  [Handpainted Grass & Ground Textures](https://assetstore.unity.com/packages/2d/textures-materials/nature/handpainted-grass-ground-textures-187634),
+  [RPG Poly Pack - Lite](https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410).
 
 ## Feedback and Support
 We hope you enjoy your journey through Wanderwood! For any feedback, questions, or technical support, please contact [Us](https://github.com/JoyAbrian).
